@@ -17,6 +17,21 @@ I am excited to present my first project in the world of Java programming - a ch
   - [x] Encapsulation/Access Modifiers
 - [x] Data Structures Topics:
   - [x] Matrix
+> **Step 3**
+- [x] Mehods: Board.Piece(row, column) and Board.Piece(position)
+- [x] Enum Chess.Color
+- [x] Class Chess.ChessPiece
+- [x] Class Chess.ChessMatch
+- [x] Class Application.UI
+- [x] OOP Topics:
+  - [x] Enumerations
+  - [x] Encapsulation/Access Modifiers
+  - [x] Inheritance
+  - [x] Downcasting
+  - [x] Static members
+  - [x] Layers pattern
+- [x] Data Structures Topics:
+  - [x] Matrix
 
 
 
