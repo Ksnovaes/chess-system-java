@@ -9,8 +9,14 @@ I am excited to present my first project in the world of Java programming - a ch
 - [x] OOP Topics:
   - [x] Encapsulation
   - [x] Constructors
-  - [x] ToString(Object / overriding)
-
+  - [x] ToString(Object/overriding)
+> **Step 2**
+- [x] Classes Piece, Board
+- [x] OOP Topics:
+  - [x] Associations
+  - [x] Encapsulation/Access Modifiers
+- [x] Data Structures Topics:
+  - [x] Matrix
 
 
 
