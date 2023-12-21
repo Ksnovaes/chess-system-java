@@ -18,7 +18,7 @@ I am excited to present my first project in the world of Java programming - a ch
 - [x] Data Structures Topics:
   - [x] Matrix
 > **Step 3**
-- [x] Mehods: Board.Piece(row, column) and Board.Piece(position)
+- [x] Methods: Board.Piece(row, column) and Board.Piece(position)`
 - [x] Enum Chess.Color
 - [x] Class Chess.ChessPiece
 - [x] Class Chess.ChessMatch
@@ -32,8 +32,18 @@ I am excited to present my first project in the world of Java programming - a ch
   - [x] Layers pattern
 - [x] Data Structures Topics:
   - [x] Matrix
+> **Step 4**
+- [x] Method: Board.PlacePiece(piece, position)
+- [x] Classes: Rook, King
+- [x] Method: ChessMatch.InitialSetup 
+- [x] OOP Topics:
+  - [x] Inheritance
+  - [x] Overriding
+  - [x] Polymorphism (ToString)
 
 
 
-###### I would like to express my gratitude to [Nélio Alves](https://www.udemy.com/course/java-curso-completo/) for his invaluable help throughout this Java trail. Thanks to his guidance, I have gained a solid understanding of object-oriented programming, exception handling, inheritance and polymorphism, enums, arrays, lists, and data structures.
+
+
+###### I would like to express my gratitude to [Nélio Alves](https://www.udemy.com/course/java-curso-completo/#instructor-1) for his invaluable help throughout this Java trail. Thanks to his guidance, I have gained a solid understanding of object-oriented programming, exception handling, inheritance and polymorphism, enums, arrays, lists, and data structures.
 
