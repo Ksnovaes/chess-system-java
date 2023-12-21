@@ -1,0 +1,17 @@
+package boardgame;
+
+public class Piece {
+    protected Position position;
+    private Board board;
+
+    public Piece(Board board) {
+        this.board = board;
+        // the position of a newly created piece is initially null;
+        // this piece has not been placed on the board yet.
+        position = null;
+    }
+
+    protected Board getBoard() {
+        return board;
+    }
+}
