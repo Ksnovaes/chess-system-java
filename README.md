@@ -40,7 +40,13 @@ I am excited to present my first project in the world of Java programming - a ch
   - [x] Inheritance
   - [x] Overriding
   - [x] Polymorphism (ToString)
-
+> **Step 5**
+- [x] Class BoardException
+- [x] Methods: Board.PositionExists, Board.ThereIsAPiece
+- [x] Implement defensive programming in Board methods
+- [x] OOP Topics:
+  - [x] Exceptions
+  - [x] Constructors (a string must be informed to the exception)
 
 
 
