@@ -7,16 +7,16 @@ I am excited to present my first project in the world of Java programming - a ch
 > **Step 1**
 - [x] Class Position
 - [x] OOP Topics:
-  - [x] Encapsulation
-  - [x] Constructors
-  - [x] ToString(Object/overriding)
+  -  Encapsulation
+  -  Constructors
+  -  ToString(Object/overriding)
 > **Step 2**
 - [x] Classes Piece, Board
 - [x] OOP Topics:
-  - [x] Associations
-  - [x] Encapsulation/Access Modifiers
+  -  Associations
+  -  Encapsulation/Access Modifiers
 - [x] Data Structures Topics:
-  - [x] Matrix
+  -  Matrix
 > **Step 3**
 - [x] Methods: Board.Piece(row, column) and Board.Piece(position)`
 - [x] Enum Chess.Color
@@ -24,30 +24,40 @@ I am excited to present my first project in the world of Java programming - a ch
 - [x] Class Chess.ChessMatch
 - [x] Class Application.UI
 - [x] OOP Topics:
-  - [x] Enumerations
-  - [x] Encapsulation/Access Modifiers
-  - [x] Inheritance
-  - [x] Downcasting
-  - [x] Static members
-  - [x] Layers pattern
+  -  Enumerations
+  -  Encapsulation/Access Modifiers
+  -  Inheritance
+  -  Downcasting
+  -  Static members
+  -  Layers pattern
 - [x] Data Structures Topics:
-  - [x] Matrix
+  -  Matrix
 > **Step 4**
 - [x] Method: Board.PlacePiece(piece, position)
 - [x] Classes: Rook, King
 - [x] Method: ChessMatch.InitialSetup 
 - [x] OOP Topics:
-  - [x] Inheritance
-  - [x] Overriding
-  - [x] Polymorphism (ToString)
+  -  Inheritance
+  -  Overriding
+  -  Polymorphism (ToString)
 > **Step 5**
 - [x] Class BoardException
 - [x] Methods: Board.PositionExists, Board.ThereIsAPiece
 - [x] Implement defensive programming in Board methods
 - [x] OOP Topics:
-  - [x] Exceptions
-  - [x] Constructors (a string must be informed to the exception)
-
+  -  Exceptions
+  -  Constructors (a string must be informed to the exception)
+> **Step 6**
+- [x] Class ChessException
+- [x] Class ChessPosition
+- [x] Refactor ChessMatch.InitialSetup
+- [x] OOP Topics:
+  - Exceptions
+  - Encapsulation
+  - Constructors (a string must be informed to the exception)
+  - Overriding
+  - Static members
+  - Layers pattern
 
 
 
