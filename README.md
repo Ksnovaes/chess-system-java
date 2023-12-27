@@ -117,5 +117,18 @@ I am excited to present my first project in the world of Java programming - a ch
 - OOP Topics
   - Encapsulation
   - Exceptions
+> **Step 15**
+- [x] Method UI.PrintCapturedPieces
+- [x] Update UI.PrintMatch
+- [x] Update Program logic
+- [x] Lists in ChessMatch: _piecesOnTheBoard, _capturedPieces
+  - Update constructor
+  - Update PlaceNewPiece
+  - Update MakeMove
+- [X] OOP Topics
+  - Encapsulation
+  - Constructors
+- [x] Data Structures Topics
+  - List
 ###### I would like to express my gratitude to [Nélio Alves](https://www.udemy.com/course/java-curso-completo/#instructor-1) for his invaluable help throughout this Java trail. Thanks to his guidance, I have gained a solid understanding of object-oriented programming, exception handling, inheritance and polymorphism, enums, arrays, lists, and data structures.
 
