@@ -87,5 +87,13 @@ I am excited to present my first project in the world of Java programming - a ch
 - [X] OOP Topics
   - Abstract method/class
   - Exceptions
+> **Step 11**
+- [x] Method ChessPiece.IsThereOpponentPiece(position) [protected]
+- [x] Implement Rook.PossibleMoves
+- [x] Method ChessMatch.ValidateTargetPosition
+- [x] OOP Topics
+  - Polymorphism
+  - Encapsulation / access modifiers [protected]
+  - Exceptions
 ###### I would like to express my gratitude to [Nélio Alves](https://www.udemy.com/course/java-curso-completo/#instructor-1) for his invaluable help throughout this Java trail. Thanks to his guidance, I have gained a solid understanding of object-oriented programming, exception handling, inheritance and polymorphism, enums, arrays, lists, and data structures.
 
