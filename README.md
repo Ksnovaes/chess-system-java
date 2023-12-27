@@ -107,5 +107,15 @@ I am excited to present my first project in the world of Java programming - a ch
 - [x] OOP Topics
   - Encapsulation
   - Polymorphism
+> **Step 14**
+- [x] Class ChessMatch
+  - Properties Turn, CurrentPlayer [private set]
+  - Method NextTurn [private]
+  - Update PerformChessMove
+  - Update ValidateSourcePosition
+- [x] Method UI.PrintMatch
+- OOP Topics
+  - Encapsulation
+  - Exceptions
 ###### I would like to express my gratitude to [Nélio Alves](https://www.udemy.com/course/java-curso-completo/#instructor-1) for his invaluable help throughout this Java trail. Thanks to his guidance, I have gained a solid understanding of object-oriented programming, exception handling, inheritance and polymorphism, enums, arrays, lists, and data structures.
 
