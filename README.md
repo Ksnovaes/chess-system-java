@@ -95,5 +95,11 @@ I am excited to present my first project in the world of Java programming - a ch
   - Polymorphism
   - Encapsulation / access modifiers [protected]
   - Exceptions
+> **Step 12**
+- [x] Method ChessMatch.PossibleMoves
+- [x] Method UI.PrintBoard [overload]
+- [x] Refactor main program logic
+- [x] OOP Topics:
+  - Overloading
 ###### I would like to express my gratitude to [Nélio Alves](https://www.udemy.com/course/java-curso-completo/#instructor-1) for his invaluable help throughout this Java trail. Thanks to his guidance, I have gained a solid understanding of object-oriented programming, exception handling, inheritance and polymorphism, enums, arrays, lists, and data structures.
 
