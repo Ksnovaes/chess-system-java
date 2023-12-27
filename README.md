@@ -130,5 +130,15 @@ I am excited to present my first project in the world of Java programming - a ch
   - Constructors
 - [x] Data Structures Topics
   - List
+> **Step 16**
+- [x] Property ChessPiece.ChessPosition [get]
+- [x] Class ChessMatch
+  - Method UndoMove
+  - Property Check [private set]
+  - Method Opponent [private]
+  - Method King (color) [private]
+  - Method TestCheck
+  - Update PerformChessMove
+- [x] Update UI.PrintMatch
 ###### I would like to express my gratitude to [Nélio Alves](https://www.udemy.com/course/java-curso-completo/#instructor-1) for his invaluable help throughout this Java trail. Thanks to his guidance, I have gained a solid understanding of object-oriented programming, exception handling, inheritance and polymorphism, enums, arrays, lists, and data structures.
 
