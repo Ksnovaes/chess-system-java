@@ -186,5 +186,23 @@ I am excited to present my first project in the world of Java programming - a ch
     - Encapsulation
     - Inheritance
     - Polymorphism
+> **Step 20**
+- [x] Special move - Castling
+  - Update King
+  - Update ChessMatch.MakeMove
+  - Update ChessMatch.UndoMove
+- [x] Special move - En Passant
+  - Register a pawn which can be captured by en passant on next turn
+    - Property ChessMatch.EnPassantVulnerable
+    - Update ChessMatch.PerformChessMove
+  - Update Pawn.PossibleMoves
+  - Update ChessMatch.MakeMove
+  - Update ChessMatch.UndoMove
+  - Update ChessMatch.InitialSetup
+- [x] Special move - Promotion
+  - Property ChessMatch.Promoted
+  - Update ChessMatch.PerformChessMove
+  - Method ChessMatch.ReplacePromotedPiece
+  - Update Program logic
 ###### I would like to express my gratitude to [Nélio Alves](https://www.udemy.com/course/java-curso-completo/#instructor-1) for his invaluable help throughout this Java trail. Thanks to his guidance, I have gained a solid understanding of object-oriented programming, exception handling, inheritance and polymorphism, enums, arrays, lists, and data structures.
 
