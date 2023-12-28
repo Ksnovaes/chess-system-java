@@ -147,5 +147,15 @@ I am excited to present my first project in the world of Java programming - a ch
   - Update PerformChessMove
 - [x] Update UI.PrintMatch
 - [x] Update Program logic
+> **Step 18**
+- [x] Class ChessPiece
+  - Property MoveCount [private set]
+  - Method increaseMoveCount [protected]
+  - Method decreaseMoveCount [protected]
+- [x] Class ChessMatch
+  - Update makeMove
+  - Update undoMove
+- [x] OOP Topics
+  - Encapsulation
 ###### I would like to express my gratitude to [Nélio Alves](https://www.udemy.com/course/java-curso-completo/#instructor-1) for his invaluable help throughout this Java trail. Thanks to his guidance, I have gained a solid understanding of object-oriented programming, exception handling, inheritance and polymorphism, enums, arrays, lists, and data structures.
 
