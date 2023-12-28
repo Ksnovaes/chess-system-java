@@ -157,5 +157,34 @@ I am excited to present my first project in the world of Java programming - a ch
   - Update undoMove
 - [x] OOP Topics
   - Encapsulation
+> **Step 19**
+- [x] Pawn
+  - Class Pawn
+  - Update ChessMatch.InitialSetup
+  - OOP Topics
+    - Encapsulation
+    - Inheritance
+    - Polymorphism
+- [x] Bishop
+  - Class Bishop
+  - Update ChessMatch.InitialSetup
+  - OOP Topics
+    - Encapsulation
+    - Inheritance
+    - Polymorphism
+- [x] Knight
+  - Class Knight
+  - Update ChessMatch.InitialSetup
+  - OOP Topics
+    - Encapsulation
+    - Inheritance
+    - Polymorphism
+- [x] Queen
+  - Class Queen
+  - Update ChessMatch.InitialSetup
+  - OOP Topics
+    - Encapsulation
+    - Inheritance
+    - Polymorphism
 ###### I would like to express my gratitude to [Nélio Alves](https://www.udemy.com/course/java-curso-completo/#instructor-1) for his invaluable help throughout this Java trail. Thanks to his guidance, I have gained a solid understanding of object-oriented programming, exception handling, inheritance and polymorphism, enums, arrays, lists, and data structures.
 
